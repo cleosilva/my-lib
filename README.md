@@ -10,5 +10,6 @@ O Curso tem como finalidade abordar os principais conceitos do Javascript como:
 * Utilizar o **try / catch**.
 * Entender expresões regulares e como montá-las.
 * Capturar links com expressões regulares.
+* Utilizando linha de comando para capturar e utilizar dados informados no terminal.
 
 ## Em construção 🚧
